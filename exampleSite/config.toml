@@ -1,4 +1,4 @@
-baseURL = "http://hugotestiranje.org"
+baseURL = "clever-brown-e48b04.netlify.com"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
